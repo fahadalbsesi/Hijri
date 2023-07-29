@@ -1,0 +1,2 @@
+PyQt5==5.15.4
+hijri-converter==2.1.1
